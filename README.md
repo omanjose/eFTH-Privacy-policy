@@ -2,7 +2,7 @@
 
 **Privacy Policy for eFTH Hymn App**
 
-Effective Date: [Insert Date]
+Effective Date: 04/02/2025
 
 **1. Introduction**
 Welcome to the eFTH Hymn App, a sacred Christian hymn application available in English, Igbo, and Efik languages. 
