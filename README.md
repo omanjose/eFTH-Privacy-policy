@@ -6,8 +6,8 @@ Effective Date: 04/02/2025
 
 **1. Introduction**
 Welcome to the eFTH Hymn App, a sacred Christian hymn application available in English, Igbo, and Efik languages. 
-This app is designed to provide users with access to hymn lyrics for spiritual edification. 
-We value your privacy and are committed to ensuring that your data remains secure and uncompromised.
+This app is designed to provide users with access to hymn lyrics for spiritual edification.
+The app do not collect any personal information from users, including names, contact details, or location data, as we believe in providing a safe and secure experience for everyone including children.
 
 **2. Data Collection and Use**
 eFTH Hymn App does not collect, store, or process any personal data from its users. 
