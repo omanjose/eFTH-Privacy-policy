@@ -1,4 +1,4 @@
-# eFTH-Privacy-policy
+Privacy policy
 
 **Privacy Policy for eFTH Hymn App**
 
